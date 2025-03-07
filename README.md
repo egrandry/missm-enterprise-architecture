@@ -1,11 +1,6 @@
-# mssi-archimate
+# MISSM Enterprise Architecture
 
-This project contains the artifacts of the Driving Licence case study, i.e. the (partial) description of the architecture of the Driving licence system in Luxembourg.  
-
-## Content of the repository
-
-The archimate model (the archimate file) can be found in [https://github.com/egrandry/mssi-archimate/tree/main/archimate-model](https://github.com/egrandry/mssi-archimate/tree/main/archimate-model)
-
-In the same directory, you will find the explanation of the case study (i.e. the slide decks). 
-
-The model is exported in csv files (export from Archi tool). The files can be found in [https://github.com/egrandry/mssi-archimate/tree/main/model-export](https://github.com/egrandry/mssi-archimate/tree/main/model-export)
+This project contains the artifacts of the Enterprise Architecture course
+1. the slide decks used as support of the lectures on [https://github.com/egrandry/missm-enterprise-architecture/lectures]
+2. the reading material
+3. the case study archimate model
